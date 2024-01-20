@@ -1,0 +1,18 @@
+body {
+    background-size:cover;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+ol {
+    background-color: white;
+    width: 200px;
+    text-align: left;
+    border-radius: 30px;
+    color: purple;
+    font-size: x-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
